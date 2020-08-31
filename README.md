@@ -1,2 +1,2 @@
-# Library-Management-System
-Used Django , python and SQLite
+# Gallery
+Used C#, .net and MYSQL
